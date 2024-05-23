@@ -29,5 +29,6 @@ This project is inspired by the one of the project of Darshil Parmar @darshilpar
 
 Project link - https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project
 
+Note - Darshil's project is fully based on python and pandas and my project is based on PySpark
 ## Complete Video Tutorial
 Video Link - https://youtu.be/WpQECq5Hx9g
